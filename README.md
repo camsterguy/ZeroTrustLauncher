@@ -71,7 +71,7 @@ Built as part of **Project VELA**, this tool represents real-world engineering d
 +----------------+       +----------------------+       +---------------------+
                                 |           |
                          2FA / Device Posture
-
+```
 
 ---
 
