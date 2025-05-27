@@ -98,10 +98,6 @@ Tailscale shines for trusted-device networks.
 
 ---
 
-Let me know if you’d like me to drop that into the `.md` file for you, or if you'd prefer it as part of the upcoming folder structure `.zip`.
-
-Say **“Go for task breakdown”** when you’re ready to map the Zero Trust Launcher dev schedule.
-
 
 ## License
 
