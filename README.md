@@ -4,7 +4,7 @@ A self-hostable toolkit for securely launching and accessing Linux-based thin cl
 
 ---
 
-## 🔐 What It Does
+## What It Does
 
 Zero Trust Launcher is a modular system that:
 
